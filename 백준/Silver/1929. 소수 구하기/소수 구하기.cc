@@ -33,7 +33,7 @@ int main()
     {
         if (isPrime[num])
         {
-            cout << num << endl;
+            cout << num << '\n';
         }
     }
 
